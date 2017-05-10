@@ -1,0 +1,1 @@
+export pagedata from './pagedata'
